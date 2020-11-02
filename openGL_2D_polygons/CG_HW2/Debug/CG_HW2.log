@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\user\onedrive\바탕 화면\computer graphics\과제\cg_hw2\cg_hw2\소스.c(14): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\user\onedrive\바탕 화면\computer graphics\과제\cg_hw2\cg_hw2\소스.c(41): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\user\onedrive\바탕 화면\computer graphics\과제\cg_hw2\cg_hw2\소스.c(42): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  CG_HW2.vcxproj -> C:\Users\user\OneDrive\바탕 화면\Computer Graphics\과제\CG_HW2\Debug\CG_HW2.exe
