@@ -1,0 +1,9 @@
+﻿  2.c
+c:\users\user\onedrive\바탕 화면\computer graphics\과제\cg_hw3\cg_hw3\2.c(28): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\user\onedrive\바탕 화면\computer graphics\과제\cg_hw3\cg_hw3\2.c(75): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\computer graphics\과제\cg_hw3\cg_hw3\2.c(76): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\computer graphics\과제\cg_hw3\cg_hw3\2.c(83): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\computer graphics\과제\cg_hw3\cg_hw3\2.c(84): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1.c
+  코드를 생성하고 있습니다...
+  CG_HW3.vcxproj -> C:\Users\user\OneDrive\바탕 화면\Computer Graphics\과제\CG_HW3\Debug\CG_HW3.exe
